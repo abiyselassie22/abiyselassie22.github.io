@@ -1,11 +1,30 @@
-# Data Scientist Job Portfolio
+# Intern / Entry-level Data Scientist Job Portfolio
+
+### Technical Skills & tools: 
+Python, SQL, databases, data analysis, data vizualization, Statistical Analysis, Machine learning models, Project management
 
 ### Education
-Biology, MSc
+Biology, MSc | Addis Ababa University (_July 2007_)
+Biology, BSc | Addis Ababa University (_July 1996_)
 
 ### Work Experience
-Associate Researcher@ Ethiopian Biodiversity Institute
+**Associate Researcher @ Ethiopian Biodiversity Institute (_December 8, 2011 - May 19, 2021_)** 
 -big impact project 1!
 -big impact project 2!
 
-### Capstone Project
+### [Applied Science Capstone Project](https://github.com/abiyselassie22/testpro/tree/master)
+--* Detected best performing Machine learning model to predict the first successful landing of SpaceX Falcon 9 Rocket.
+--* Collected data from Public Source using SpaceX Rest API.
+--* Webscraped Falcon 9 Launch records from Wikipedia page using Beutiful Soup library.
+--* Performed Feature engineering using Pandas & Matplotlib.
+--* Performed exploratory data analysis (EDA) using Data Vizualization & SQL.
+--* Performed Interactive Visual Analytics using Folium & Plotly Dash.
+--* Performed predictive analysis using Classification Machine learning models.
+--* Optimized Logistic, Support Vector Machines (SVM), decision trees, & KNN using GridSearchCV to reach the best model.
+
+### Certifications
+Data Scientist Career Guide and Interview Preparation | Coursera, IBM Skills Network (_September 28, 2023_)
+IBM Data Science | Coursera, IBM Skills Network (_September 1, 2023_)
+Project Management Principles and Practices | (_September 8, 2022_)           
+
+### Publications
