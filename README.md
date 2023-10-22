@@ -4,12 +4,12 @@
 Python, SQL, databases, data analysis, data vizualization, Statistical Analysis, Machine learning models, Project management
 
 ### Education
-Biology, MSc | Addis Ababa University (_July 2007_)
+Biology, MSc | Addis Ababa University (_July 2007_) <br>
 Biology, BSc | Addis Ababa University (_July 1996_)
 
 ### Work Experience
-**Associate Researcher @ Ethiopian Biodiversity Institute (_December 8, 2011 - May 19, 2021_)** 
--big impact project 1!
+**Associate Researcher @ Ethiopian Biodiversity Institute (_December 8, 2011 - May 19, 2021_)** <br>
+-big impact project 1! <br>
 -big impact project 2!
 
 ### [Applied Science Capstone Project](https://github.com/abiyselassie22/testpro/tree/master)
@@ -23,8 +23,8 @@ Biology, BSc | Addis Ababa University (_July 1996_)
 * Optimized Logistic, Support Vector Machines (SVM), decision trees, & KNN using GridSearchCV to reach the best model.
 
 ### Certifications
-Data Scientist Career Guide and Interview Preparation | Coursera, IBM Skills Network (_September 28, 2023_)
-IBM Data Science | Coursera, IBM Skills Network (_September 1, 2023_)
+Data Scientist Career Guide and Interview Preparation | Coursera, IBM Skills Network (_September 28, 2023_) <br>
+IBM Data Science | Coursera, IBM Skills Network (_September 1, 2023_) <br>
 Project Management Principles and Practices | (_September 8, 2022_)           
 
 ### Publications
