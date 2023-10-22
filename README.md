@@ -27,6 +27,8 @@ Biology, BSc | Addis Ababa University (_July 1996_)
 ### Certifications
 Data Scientist Career Guide and Interview Preparation | Coursera, IBM Skills Network (_September 28, 2023_) <br>
 IBM Data Science | Coursera, IBM Skills Network (_September 1, 2023_) <br>
-Project Management Principles and Practices | Coursera, University of California, Irvine (_September 8, 2022_)           
+[IBM Data Science](https://github.com/abiyselassie22/abiyselassie22.github.io/blob/main/assets/IBMDataSciCoursera.pdf)
+Project Management Principles and Practices | Coursera, University of California, Irvine (_September 8, 2022_)
+[Project Management Principles and Practices](https://github.com/abiyselassie22/abiyselassie22.github.io/blob/main/assets/ProjectManagement_Coursera.pdf)
 
 ### Publications
