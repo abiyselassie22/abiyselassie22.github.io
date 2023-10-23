@@ -11,12 +11,12 @@ Python, SQL, databases, data analysis, data vizualization, Statistical Analysis,
 **Associate Researcher @ Ethiopian Biodiversity Institute (_December 8, 2011 - May 19, 2021_)** <br>
 * Evaluated and processed Customer's Access Permit applications to export genetic resources into Hi-Tech laboratories, which increased efficiency by 5 %. <br>
 * Organized 17 workshops on how to access genetic resources and associated community knowledge, which raised awareness of 1000+ communities and stakeholders by 15 %. <br>
-* Promoted the use of plant genetic resources in research & development by Darwin Initiative BCGI Project
+* Promoted the use of plant genetic resources in research & development by Darwin Initiative BCGI Project.
     
-### [Applied Science Capstone Project](https://github.com/abiyselassie22/testpro/tree/master)
+### Applied Science Capstone Project [Click here](https://github.com/abiyselassie22/testpro/tree/master)
 * Detected best performing Machine learning model to predict the first successful landing of SpaceX Falcon 9 Rocket. <br>
 * Collected data from Public Source using SpaceX Rest API. <br>
-* Webscraped Falcon 9 Launch records from Wikipedia page using Beutiful Soup library. <br>
+* Webscraped Falcon 9 Launch records from Wikipedia page using Beautiful Soup library. <br>
 * Performed Feature engineering using Pandas & Matplotlib.
 * Performed exploratory data analysis (EDA) using Data Vizualization & SQL. <br>
 * Performed Interactive Visual Analytics using Folium & Plotly Dash. <br>
