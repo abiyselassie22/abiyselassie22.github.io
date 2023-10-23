@@ -33,5 +33,5 @@ Project Management Principles and Practices | Coursera, University of California
 [Project Management Principles and Practices](https://github.com/abiyselassie22/abiyselassie22.github.io/blob/main/assets/ProjectManagement_Coursera.pdf)
 
 ### Publications
-Spasmolytic effects of Artemisia afra and Artemisia rehan in tissue preparations. (https://pubmed.ncbi.nlm.nih.gov/18326347/)
-Retrospective analysis of patterns of drug resistant bacteria isolated from swabs and discharges of patients at Saint Paul Hospital Millennium Medical College, Addis Ababa, Ethiopia. (https://doi.org/10.30574/gscbps.2019.7.3.0047)
+Spasmolytic effects of Artemisia afra and Artemisia rehan in tissue preparations. [Click here] (https://pubmed.ncbi.nlm.nih.gov/18326347/)
+Retrospective analysis of patterns of drug resistant bacteria isolated from swabs and discharges of patients at Saint Paul Hospital Millennium Medical College, Addis Ababa, Ethiopia. [Click here](https://doi.org/10.30574/gscbps.2019.7.3.0047)
