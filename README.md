@@ -9,9 +9,10 @@ Python, SQL, databases, data analysis, data vizualization, Statistical Analysis,
 
 ### Work Experience
 **Associate Researcher @ Ethiopian Biodiversity Institute (_December 8, 2011 - May 19, 2021_)** <br>
--big impact project 1! <br>
--big impact project 2!
-
+* Evaluated and processed Customer's Access Permit applications to export genetic resources into Hi-Tech laboratories, which increased efficiency by 5 %. <br>
+* Organized 17 workshops on how to access genetic resources and associated community knowledge, which raised awareness of 1000+ communities and stakeholders by 15 %. <br>
+* Promoted the use of plant genetic resources in research & development by Darwin Initiative BCGI Project
+    
 ### [Applied Science Capstone Project](https://github.com/abiyselassie22/testpro/tree/master)
 * Detected best performing Machine learning model to predict the first successful landing of SpaceX Falcon 9 Rocket. <br>
 * Collected data from Public Source using SpaceX Rest API. <br>
@@ -32,3 +33,5 @@ Project Management Principles and Practices | Coursera, University of California
 [Project Management Principles and Practices](https://github.com/abiyselassie22/abiyselassie22.github.io/blob/main/assets/ProjectManagement_Coursera.pdf)
 
 ### Publications
+Spasmolytic effects of Artemisia afra and Artemisia rehan in tissue preparations. (https://pubmed.ncbi.nlm.nih.gov/18326347/)
+Retrospective analysis of patterns of drug resistant bacteria isolated from swabs and discharges of patients at Saint Paul Hospital Millennium Medical College, Addis Ababa, Ethiopia. (https://doi.org/10.30574/gscbps.2019.7.3.0047)
