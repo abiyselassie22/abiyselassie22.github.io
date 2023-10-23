@@ -27,10 +27,11 @@ Python, SQL, databases, data analysis, data vizualization, Statistical Analysis,
 
 ### Certifications
 Data Scientist Career Guide and Interview Preparation | Coursera, IBM Skills Network (_September 28, 2023_) <br>
+[Click here](https://github.com/abiyselassie22/abiyselassie22.github.io/blob/main/assets/Coursera%203CSQBYQM8LTF.pdf)
 IBM Data Science | Coursera, IBM Skills Network (_September 1, 2023_) <br>
-[IBM Data Science](https://github.com/abiyselassie22/abiyselassie22.github.io/blob/main/assets/IBMDataSciCoursera.pdf) <br>
+[Click here](https://github.com/abiyselassie22/abiyselassie22.github.io/blob/main/assets/IBMDataSciCoursera.pdf) <br>
 Project Management Principles and Practices | Coursera, University of California, Irvine (_September 8, 2022_) <br>
-[Project Management Principles and Practices](https://github.com/abiyselassie22/abiyselassie22.github.io/blob/main/assets/ProjectManagement_Coursera.pdf)
+[Click here](https://github.com/abiyselassie22/abiyselassie22.github.io/blob/main/assets/ProjectManagement_Coursera.pdf)
 
 ### Publications
 Spasmolytic effects of Artemisia afra and Artemisia rehan in tissue preparations. <br>
