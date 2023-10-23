@@ -1,2 +1,9 @@
 title: Abiyselassie Gashaw
 <a href="https://www.linkedin.com/in/abiyselassiegashaw/">View My LinkedIn Profile</a> 
+
+# Build settings
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
