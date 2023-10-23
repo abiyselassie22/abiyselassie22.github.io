@@ -37,7 +37,8 @@ Project Management Principles and Practices | Coursera, University of California
 [Click here](https://www.coursera.org/account/accomplishments/specialization/certificate/C56BBF5Y2967)
 
 ### Awards & Acknowledgements
-Tools for Data Science. [Click here](https://www.credly.com/badges/0d4c4c11-47ae-46b7-8fe4-40d1b22f90f5/public_url)
+Data Science Orientation. [Click here](https://www.credly.com/badges/6fe8d949-ca05-43df-b842-1a38cbc15b19/public_url) <br>
+Tools for Data Science. [Click here](https://www.credly.com/badges/0d4c4c11-47ae-46b7-8fe4-40d1b22f90f5/public_url) <br>
 Data Science Methodology. [Click here](https://www.credly.com/badges/2d36cc48-d6b9-4f66-94aa-f46ab805e6c2/public_url) <br>
 Python for Data Science and AI. [Click here](https://www.credly.com/badges/8e1ca64a-c52e-454a-b305-9ff4d57c7140/public_url) <br>
 Databases and SQL for Data Science. [Click here](https://www.credly.com/badges/6c2972f7-031f-418a-9565-d2a085523ff2/public_url) <br>
