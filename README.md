@@ -1,11 +1,16 @@
 # Intern / Entry-level Data Scientist Job Portfolio
 
 ### Technical Skills & tools: 
-Python, SQL, databases, data analysis, data vizualization, Statistical Analysis, Machine learning models, Project management
+* Python, SQL, IBM Cloud, Db2, Databases, Machine learning models
+* Data collection & webscraping, Data wrangling, Data visualization, Dashboard
+* Exploratory Data Analysis, Model Development & Evaluation, Predictive analysis
+* Jupyter Notebook, GitHub, Watson Studio, R Studio, SPSS model
+* Pandas, NumPy, Matplotlib, Seaborn, API, Html
+* Microsoft office (Word, Excel, PowerPoint, Outlook)
 
 ### Education
-* MSc, Biology | Addis Ababa University (_July 2007_) <br>
-* BSc, Biology | Addis Ababa University (_July 1996_)
+MSc, Biology | Addis Ababa University (_July 2007_) <br>
+BSc, Biology | Addis Ababa University (_July 1996_)
 
 ### Work Experience
 **Associate Researcher @ Ethiopian Biodiversity Institute (_December 8, 2011 - May 19, 2021_)** <br>
@@ -23,15 +28,24 @@ Python, SQL, databases, data analysis, data vizualization, Statistical Analysis,
 * Performed predictive analysis using Classification Machine learning models. <br>
 * Optimized Logistic, Support Vector Machines (SVM), decision trees, & KNN using GridSearchCV to reach the best model.
 
-![](/assets/ClassificationModel.png)
-
 ### Certifications
 Data Scientist Career Guide and Interview Preparation | Coursera, IBM Skills Network (_September 28, 2023_) <br>
-[Click here](https://github.com/abiyselassie22/abiyselassie22.github.io/blob/main/assets/Coursera%203CSQBYQM8LTF.pdf) <br>
+[Click here](https://www.coursera.org/account/accomplishments/certificate/3CSQBYQM8LTF) <br>
 IBM Data Science | Coursera, IBM Skills Network (_September 1, 2023_) <br>
-[Click here](https://github.com/abiyselassie22/abiyselassie22.github.io/blob/main/assets/IBMDataSciCoursera.pdf) <br>
+[Click here](https://www.coursera.org/account/accomplishments/specialization/certificate/CUABG4DMCVMV) <br>
 Project Management Principles and Practices | Coursera, University of California, Irvine (_September 8, 2022_) <br>
-[Click here](https://github.com/abiyselassie22/abiyselassie22.github.io/blob/main/assets/ProjectManagement_Coursera.pdf)
+[Click here](https://www.coursera.org/account/accomplishments/specialization/certificate/C56BBF5Y2967)
+
+### Awards & Acknowledgements
+Tools for Data Science. [Click here](https://www.credly.com/badges/0d4c4c11-47ae-46b7-8fe4-40d1b22f90f5/public_url)
+Data Science Methodology. [Click here](https://www.credly.com/badges/2d36cc48-d6b9-4f66-94aa-f46ab805e6c2/public_url)
+Python for Data Science and AI. [Click here](https://www.credly.com/badges/8e1ca64a-c52e-454a-b305-9ff4d57c7140/public_url)
+Databases and SQL for Data Science. [Click here](https://www.credly.com/badges/6c2972f7-031f-418a-9565-d2a085523ff2/public_url)
+Python Project for Data Science. [Click here](https://www.credly.com/badges/21ce6b0b-0385-4215-8a1e-002559f363b1/public_url)
+Data Analysis with Python. [Click here](https://www.credly.com/badges/8c158a04-50a1-4f81-a0d9-2f87b249d821/public_url)
+Data Visualization with Python. [Click here](https://www.credly.com/badges/f62d27e6-fe2c-4a01-b34c-40941e6711ab/public_url)
+Machine Learning with Python. [Click here](https://www.credly.com/badges/bbab495e-14ca-41a7-8fb9-2a91f15d031e/public_url)
+Applied Data Science Capstone. [Click here](https://www.credly.com/badges/045e5a97-21b1-47e2-996e-a50fde15ffa9/public_url)
 
 ### Publications
 Spasmolytic effects of Artemisia afra and Artemisia rehan in tissue preparations. <br>
