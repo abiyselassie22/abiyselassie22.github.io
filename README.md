@@ -38,14 +38,14 @@ Project Management Principles and Practices | Coursera, University of California
 
 ### Awards & Acknowledgements
 Tools for Data Science. [Click here](https://www.credly.com/badges/0d4c4c11-47ae-46b7-8fe4-40d1b22f90f5/public_url)
-Data Science Methodology. [Click here](https://www.credly.com/badges/2d36cc48-d6b9-4f66-94aa-f46ab805e6c2/public_url)
-Python for Data Science and AI. [Click here](https://www.credly.com/badges/8e1ca64a-c52e-454a-b305-9ff4d57c7140/public_url)
-Databases and SQL for Data Science. [Click here](https://www.credly.com/badges/6c2972f7-031f-418a-9565-d2a085523ff2/public_url)
-Python Project for Data Science. [Click here](https://www.credly.com/badges/21ce6b0b-0385-4215-8a1e-002559f363b1/public_url)
-Data Analysis with Python. [Click here](https://www.credly.com/badges/8c158a04-50a1-4f81-a0d9-2f87b249d821/public_url)
-Data Visualization with Python. [Click here](https://www.credly.com/badges/f62d27e6-fe2c-4a01-b34c-40941e6711ab/public_url)
-Machine Learning with Python. [Click here](https://www.credly.com/badges/bbab495e-14ca-41a7-8fb9-2a91f15d031e/public_url)
-Applied Data Science Capstone. [Click here](https://www.credly.com/badges/045e5a97-21b1-47e2-996e-a50fde15ffa9/public_url)
+Data Science Methodology. [Click here](https://www.credly.com/badges/2d36cc48-d6b9-4f66-94aa-f46ab805e6c2/public_url) <br>
+Python for Data Science and AI. [Click here](https://www.credly.com/badges/8e1ca64a-c52e-454a-b305-9ff4d57c7140/public_url) <br>
+Databases and SQL for Data Science. [Click here](https://www.credly.com/badges/6c2972f7-031f-418a-9565-d2a085523ff2/public_url) <br>
+Python Project for Data Science. [Click here](https://www.credly.com/badges/21ce6b0b-0385-4215-8a1e-002559f363b1/public_url) <br>
+Data Analysis with Python. [Click here](https://www.credly.com/badges/8c158a04-50a1-4f81-a0d9-2f87b249d821/public_url) <br>
+Data Visualization with Python. [Click here](https://www.credly.com/badges/f62d27e6-fe2c-4a01-b34c-40941e6711ab/public_url) <br>
+Machine Learning with Python. [Click here](https://www.credly.com/badges/bbab495e-14ca-41a7-8fb9-2a91f15d031e/public_url) <br>
+Applied Data Science Capstone. [Click here](https://www.credly.com/badges/045e5a97-21b1-47e2-996e-a50fde15ffa9/public_url) 
 
 ### Publications
 Spasmolytic effects of Artemisia afra and Artemisia rehan in tissue preparations. <br>
