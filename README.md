@@ -1,11 +1,11 @@
 # Intern / Entry-level Data Scientist Job Portfolio
 
 ### Technical Skills & tools: 
-* Python, SQL, IBM Cloud, Db2, Databases, Machine learning models
+* Python, SQL, IBM Cloud, Db2, Databases, Pandas, NumPy, Matplotlib, Seaborn, API, Html
+* Jupyter Notebook, GitHub, Watson Studio, R Studio, SPSS model
+* Machine learning models (Linear Regression, Logistic Regression, SVM, Decision tree, KNN)
 * Data collection & webscraping, Data wrangling, Data visualization, Dashboard
 * Exploratory Data Analysis, Model Development & Evaluation, Predictive analysis
-* Jupyter Notebook, GitHub, Watson Studio, R Studio, SPSS model
-* Pandas, NumPy, Matplotlib, Seaborn, API, Html
 * Microsoft office (Word, Excel, PowerPoint, Outlook)
 
 ### Education
@@ -14,9 +14,11 @@ BSc, Biology | Addis Ababa University (_July 1996_)
 
 ### Work Experience
 **Associate Researcher @ Ethiopian Biodiversity Institute (_December 8, 2011 - May 19, 2021_)** <br>
-* Evaluated and processed Customer's Access Permit applications to export genetic resources into Hi-Tech laboratories, which increased efficiency by 5 %. <br>
-* Organized 17 workshops on how to access genetic resources and associated community knowledge, which raised awareness of 1000+ communities and stakeholders by 15 %. <br>
-* Promoted the use of plant genetic resources in research & development by Darwin Initiative BCGI Project.
+* Prepared 5 research proposals; collected & cleaned Ethnobotanic & Ethnozoological data.
+* Analyzed & interpreted data using descriptive & inferential statistical methods with SPSS & Excel spreadsheet (Linear Regression).
+* Analyzed data using analytical tools such as free-listing, matrix ranking, preference ranking, & paired comparisons.
+* Presented the findings & published the data in scientific journals. 
+* Promoted the sustainable use of plant genetic resources in research & development by Darwin Initiative BCGI Project.
     
 ### Applied Science Capstone Project [Click here](https://github.com/abiyselassie22/testpro/tree/master)
 * Detected best performing Machine learning model to predict the first successful landing of SpaceX Falcon 9 Rocket. <br>
