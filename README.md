@@ -1,6 +1,6 @@
 # Intern / Entry-level Data Analyst / Data Scientist Job Portfolio
 
-### Technical Skills & tools: 
+### Technical Skills & Tools: 
 * Python, SQL, IBM Cloud, Db2, Databases, Pandas, NumPy, Matplotlib, Seaborn, API, Html
 * Jupyter Notebook, GitHub, Watson Studio, R Studio, SPSS model
 * Machine learning models (Linear Regression, Logistic Regression, SVM, Decision tree, KNN)
